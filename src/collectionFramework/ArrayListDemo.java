@@ -113,5 +113,6 @@ public class ArrayListDemo {
       // obj.ListPractice();
         obj.ListofNumber();
         System.out.println("hello changes from local");
+        System.out.println("Hello changes from remote ");
     }
 }

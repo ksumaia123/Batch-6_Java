@@ -112,5 +112,6 @@ public class ArrayListDemo {
         ArrayListDemo obj = new ArrayListDemo();
       // obj.ListPractice();
         obj.ListofNumber();
+        System.out.println("hello changes from local");
     }
 }

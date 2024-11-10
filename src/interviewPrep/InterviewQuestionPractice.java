@@ -1,17 +1,12 @@
 package interviewPrep;
-
 import java.util.Scanner;
-
 public class InterviewQuestionPractice {
-
     public void ifElse(){
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Your Grade");
         int grade = sc.nextInt();
-
        //int grade =45;
-
         if(grade>80){
             System.out.println("The grade is A");
         } else if ((grade>60)&&(grade==80)) {
@@ -28,18 +23,11 @@ public class InterviewQuestionPractice {
         }
         else if ((grade>25)) {
             System.out.println("The grade is F");
-
         }
-
     }
-
-
-
-
     public static void main(String[] args) {
     InterviewQuestionPractice obj = new InterviewQuestionPractice();
     obj.ifElse();
-
     }
     }
 

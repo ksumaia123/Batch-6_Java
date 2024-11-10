@@ -1,6 +1,7 @@
 package accessModifier;
 
 public class Amodifier_1 {
+
 /* public variable and methods are accessible across the project
     Private variable and methods are accessible only its own class
     To solve this issue we use encapsulation

@@ -137,11 +137,11 @@ public class Loop {
         public static void main (String[]args){
             // loopIntro();
             // whileloop(50, 100); // called the method ... giving an argument (giving a value)
-            //  whileloop2();
+              whileloop2();
             Loop obj = new Loop();
             //  obj.forloop();
             // obj.dowhileloop();
             //  obj.fibonacci();
-            obj.shape();
+          //  obj.shape();
         }
     }
